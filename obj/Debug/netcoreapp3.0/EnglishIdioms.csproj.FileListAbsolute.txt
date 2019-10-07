@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/bin/Debug/netcoreapp3.0/EnglishIdioms
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/bin/Debug/netcoreapp3.0/EnglishIdioms.deps.json
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/bin/Debug/netcoreapp3.0/EnglishIdioms.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/bin/Debug/netcoreapp3.0/EnglishIdioms.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/bin/Debug/netcoreapp3.0/EnglishIdioms.dll
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/bin/Debug/netcoreapp3.0/EnglishIdioms.pdb
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/obj/Debug/netcoreapp3.0/EnglishIdioms.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/obj/Debug/netcoreapp3.0/EnglishIdioms.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/obj/Debug/netcoreapp3.0/EnglishIdioms.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/obj/Debug/netcoreapp3.0/EnglishIdioms.dll
+/Users/i9_editor/workspace/csharp/exercises/EnglishIdioms/obj/Debug/netcoreapp3.0/EnglishIdioms.pdb
